@@ -1,0 +1,10 @@
+Style:rule
+Stage:0
+Condition attributes number:0
+The Number of Condition attributes deleted: 8
+The position of Condition attributes deleted: 0 1 2 3 4 5 6 7 
+Rules number:1
+Blocks number:0
+I 
+Integer 
+0 1 4177 4177 

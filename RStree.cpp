@@ -1,0 +1,27 @@
+// RStree.cpp: implementation of the CRStree class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "ID.h"
+#include "RStree.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CRStree::CRStree()
+{
+
+}
+
+CRStree::~CRStree()
+{
+
+}
